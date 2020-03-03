@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "974666375155",
+    "firebase_url": "https://my-project-1556407613593.firebaseio.com",
+    "project_id": "my-project-1556407613593",
+    "storage_bucket": "my-project-1556407613593.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974666375155:android:f579cef7a466f7852bbc86",
+        "android_client_info": {
+          "package_name": "anamehani2.anaprovider.com.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1SEGVr9QqZnv_pBVJz4isVR1WUGscWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974666375155-1nnqsu6go5pse1qkmqsj7nmeathu5p6a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.customer.anamehani.anamehanCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974666375155:android:fd0c8c10160189ab2bbc86",
+        "android_client_info": {
+          "package_name": "com.anaprovider.anamehani2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1SEGVr9QqZnv_pBVJz4isVR1WUGscWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974666375155-1nnqsu6go5pse1qkmqsj7nmeathu5p6a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.customer.anamehani.anamehanCustomer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
